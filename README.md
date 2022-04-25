@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![jwlms GitHub stats](https://github-readme-stats.vercel.app/api?username=jwlms)](https://github.com/jwlms/github-readme-stats)
+
 <!--
 **jwlms/jwlms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
